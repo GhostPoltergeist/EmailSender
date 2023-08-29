@@ -1,0 +1,2 @@
+setuptools~=65.5.1
+emailsender~=1.0.0
