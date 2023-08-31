@@ -89,6 +89,11 @@ with the generated application-specific password you obtained from Google:
 EMAIL_PASSWORD = 'your_generated_app_password'
 ```
 
+## PYPI
+```python
+pip install EmailSender-GhostPoltergeist
+```
+
 ## Contributions
 Contributions to the EmailSender Python script are welcome! If you find any issues or want to enhance its features, feel free to create a pull request.
 
