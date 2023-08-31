@@ -20,7 +20,7 @@ Before using the EmailSender script, ensure you have the following prerequisites
 
 ## Installation
 
-1. Clone or download the repository to your local machine. git clone https://github.com/GhostPoltergeist/EmailSender.git
+1. Clone or download the repository to your local machine. git clone https://github.com/your_username/EmailSender.git
 
 2. Navigate to the project directory:
 ```cd EmailSender```
@@ -48,14 +48,14 @@ EMAIL_PASSWORD = "your_email_password"
 ## Example
 
 ```python
-from EmailSenderVaryTest import config
+from EmailSender_GhostPoltergeist import config
 
 email_sender = config.EMAIL_ADDRESS
 
 recipient = "recipient@example.com"
 
-subject = "Hello from EmailSenderVaryTest!"
-message = "This is a test email sent using the EmailSenderVaryTest script."
+subject = "Hello from EmailSender_GhostPoltergeist!"
+message = "This is a test email sent using the EmailSender_GhostPoltergeist script."
 
 attachment_path = "path/to/attachment.pdf"
 email_sender.attach_file(attachment_path)
@@ -87,11 +87,6 @@ In config.py script, replace the EMAIL_PASSWORD variable
 with the generated application-specific password you obtained from Google:
 ```python
 EMAIL_PASSWORD = 'your_generated_app_password'
-```
-
-## PYPI
-```python
-pip install EmailSender-GhostPoltergeist
 ```
 
 ## Contributions
