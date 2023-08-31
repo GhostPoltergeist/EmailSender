@@ -20,7 +20,7 @@ Before using the EmailSender script, ensure you have the following prerequisites
 
 ## Installation
 
-1. Clone or download the repository to your local machine. git clone https://github.com/your_username/EmailSender.git
+1. Clone or download the repository to your local machine. git clone https://github.com/GhostPoltergeist/EmailSender.git
 
 2. Navigate to the project directory:
 ```cd EmailSender```
