@@ -2,7 +2,7 @@
 
 **Author:** Harold Edsel F. Cabaluna
 
-The *EmailSender* Python script is a tool designed to simplify the process of sending emails using Python. This script leverages the power of Python's `smtplib` library to send emails programmatically, making it useful for various applications such as automating notifications, sending reports, or communicating with users.
+The *EmailSender* Python script is a tool designed to simplify the process of sending multiple emails using Python. This script leverages the power of Python's `smtplib` library to send emails programmatically, making it useful for various applications such as automating notifications, sending reports, or communicating with users.
 
 ## Features
 
